@@ -1,0 +1,3 @@
+﻿  hiddenboard.cpp
+c:\users\linh\documents\vcu\fall 2019\info 450\repos\assignment2\boardgame\boardgame\hiddenboard.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  boardgame.vcxproj -> C:\Users\Linh\Documents\VCU\Fall 2019\INFO 450\repos\assignment2\boardgame\Debug\boardgame.exe
